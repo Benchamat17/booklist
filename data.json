@@ -1,0 +1,22 @@
+[
+    {
+        "title": "What is Compiter",
+        "subtitle": "Computer คือ อุปกรณ์อิเล็กทรอนิกส์",
+        "images_name":"https://cdn.shopify.com/s/files/1/0421/4892/1498/products/H447b8aeecb7243189f4c1fdc087fbdbd8_720x.jpg?v=1652950941",
+        "detail" : "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a nominally complete computer that includes the hardware, operating system, and peripheral equipment needed and used for full operation. This term may also refer to a group of computers that are linked and function together, such as a computer network or computer cluster."
+    },
+
+    {
+        "title": "What is Software",
+        "subtitle": "Software คือ เป็นชุดคำสั่งที่ใช้ในการสั่งงานให้คอมพิวเตอร์ทำงาน",
+        "images_name":"https://cdn.pixabay.com/photo/2015/06/12/18/44/fox-807315_1280.png",
+        "detail" : "Software is a set of instructions, data, or programs used to operate a computer and execute specific tasks. In simpler terms, software tells a computer how to function. It is a generic term used to refer to applications, scripts, and programs that run on devices such as PCs, mobile phones, tablets, and other smart devices. Software contrasts with hardware, which is the physical aspects of a computer that perform the work."
+    },
+
+    {
+        "title": "What is Network",
+        "subtitle": "Network คือ ระบบเครือข่ายคอมพิวเตอร์",
+        "images_name":"https://cdn.shopify.com/s/files/1/0289/5872/0034/products/11_700x.jpg?v=1663292901",
+        "detail" : "A network is defined as a group of two or more computer systems linked together. There are many types of computer networks, including the following."
+    }
+]
